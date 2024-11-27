@@ -1,0 +1,12 @@
+2024-11-28 00:43:03.851 +01:00 [WRN] Failed to determine the https port for redirect.
+2024-11-28 00:43:03.889 +01:00 [INF] Die Get-Methode wurde aufgerufen.
+2024-11-28 00:43:03.894 +01:00 [DBG] Generierte Wettervorhersagen: {"Date":"2024-11-29","TemperatureC":-10,"TemperatureF":15,"Summary":"Sweltering","$type":"WeatherForecast"}
+[2024-11-28 00:49:11 WRN] Failed to determine the https port for redirect.
+[2024-11-28 00:49:11 INF] Die Get-Methode wurde aufgerufen.
+[2024-11-28 00:49:12 INF] Die Get-Methode wurde aufgerufen.
+[2024-11-28 00:49:12 INF] Die Get-Methode wurde aufgerufen.
+[2024-11-28 00:50:27] Failed to determine the https port for redirect.
+[2024-11-28 00:50:27] Die Get-Methode wurde aufgerufen.
+[2024-11-28 00:50:29] Die Get-Methode wurde aufgerufen.
+[2024-11-28 00:50:45 WRN] Failed to determine the https port for redirect.
+[2024-11-28 00:50:45 INF] Die Get-Methode wurde aufgerufen.
